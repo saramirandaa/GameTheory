@@ -91,4 +91,3 @@ NASH_J1 = NASH.search_greater1()
 NASH_J2 = NASH.search_greater2()
 
 NASH.compare_cells(NASH_J1, NASH_J2)
-time.sleep(3000)

@@ -131,4 +131,4 @@ for row in range(NASH.rows):
 NASH.view()
 NASH.calculate_polynomial()
 NASH.compute()
-time.sleep(3000)
+
